@@ -2,7 +2,7 @@
 
 A showcase of working with CustomPainter to create simple animations
 
- ![gif](assets\example.gif)
+ ![gif](https://github.com/RusAntr/flutter_custom_painter_icon_animations/blob/master/assets/example.gif)
 
 ## Table of Contents:
 * [General Info](#general-info)
